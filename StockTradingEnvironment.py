@@ -45,7 +45,6 @@ class StockTradingEnvironment(gym.Env):
         self.t_sales_value = 0  # Total sales value
         self.c_transaction = 0  # Current Transaction
         self.trades = []
-        self.profit = self.n_worth - P_ACCOUNT_BALANCE  # Current Profit
 
     def step(self, action):
 
@@ -171,6 +170,7 @@ class StockTradingEnvironment(gym.Env):
             self.c_basis = 0
 
     def _write_output_to_file(self, filename='output.txt'):
+        profit = self.n_worth - P_ACCOUNT_BALANCE  # Current Profit
 
         file = open(filename, 'a+')
 
@@ -179,16 +179,17 @@ class StockTradingEnvironment(gym.Env):
         file.write(f'Shares held: {self.s_held} (Total Shares sold: {self.t_shares_sold})\n')
         file.write(f'Average cost for held shares: {self.c_basis} (Total sales value: {self.t_sales_value})\n')
         file.write(f'Net worth: {self.n_worth} (Max net worth: {self.m_net_worth})\n')
-        file.write(f'Total Profit: {self.profit}\n\n')
+        file.write(f'Total Profit: {profit}\n\n')
 
         file.close()
 
     def _write_output_to_terminal(self):
+        profit = self.n_worth - P_ACCOUNT_BALANCE  # Current Profit
 
         print("---------------------------"f'Transaction: {self.c_transaction}'"------------------------------")
         print(f'Remaining Balance: {self.balance}\n')
         print(f'Shares held: {self.s_held} (Total Shares sold: {self.t_shares_sold})\n')
         print(f'Average cost for held shares: {self.c_basis} (Total sales value: {self.t_sales_value})\n')
         print(f'Net worth: {self.n_worth} (Max net worth: {self.m_net_worth})\n')
-        print(f'Total Profit: {self.profit}\n\n')
+        print(f'Total Profit: {profit}\n\n')
         print("---------------------Transaction End-------------------------")
