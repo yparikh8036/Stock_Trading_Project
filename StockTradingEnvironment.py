@@ -84,7 +84,7 @@ class StockTradingEnvironment(gym.Env):
                 self.visual_output = StockTradingGraph(self.df, kwargs.get('title', None))
 
             if self.c_transaction > L_WINDOW_SIZE:
-                self.visual_output.render(self.c_transaction, self.n_worth, self.trades, window_size=L_WINDOW_SIZE)
+                self.visual_output.render(self.c_transaction, self.n_worth, self.trades, w_size=L_WINDOW_SIZE)
 
             self._write_output_to_terminal()
 
