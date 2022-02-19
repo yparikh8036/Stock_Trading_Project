@@ -1,0 +1,1127 @@
+Step: 1
+Balance: 10000.0
+Shares held: 0 (Total sold: 0)
+Avg cost for held shares: 0 (Total sales value: 0.0)
+Net worth: 10000.0 (Max net worth: 10000)
+Profit: 0.0
+
+Step: 2
+Balance: 4716.809841781074
+Shares held: 7 (Total sold: 0)
+Avg cost for held shares: 754.7414511741323 (Total sales value: 0.0)
+Net worth: 10000.0 (Max net worth: 10000)
+Profit: 0.0
+
+Step: 3
+Balance: 4043.45876368936
+Shares held: 8 (Total sold: 0)
+Avg cost for held shares: 744.5676545388301 (Total sales value: 0.0)
+Net worth: 9430.267388423075 (Max net worth: 10000)
+Profit: -569.7326115769247
+
+Step: 4
+Balance: 4043.45876368936
+Shares held: 8 (Total sold: 0)
+Avg cost for held shares: 744.5676545388301 (Total sales value: 0.0)
+Net worth: 9939.048964345186 (Max net worth: 10000)
+Profit: -60.951035654814405
+
+Step: 5
+Balance: 607.2936614424498
+Shares held: 13 (Total sold: 0)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 0.0)
+Net worth: 9541.322927284415 (Max net worth: 10000)
+Profit: -458.6770727155854
+
+Step: 6
+Balance: 607.2936614424498
+Shares held: 13 (Total sold: 0)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 0.0)
+Net worth: 9699.4857272076 (Max net worth: 10000)
+Profit: -300.5142727923994
+
+Step: 7
+Balance: 607.2936614424498
+Shares held: 13 (Total sold: 0)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 0.0)
+Net worth: 9882.003999174933 (Max net worth: 10000)
+Profit: -117.99600082506731
+
+Step: 8
+Balance: 607.2936614424498
+Shares held: 13 (Total sold: 0)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 0.0)
+Net worth: 9790.064650530585 (Max net worth: 10000)
+Profit: -209.9353494694151
+
+Step: 9
+Balance: 607.2936614424498
+Shares held: 13 (Total sold: 0)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 0.0)
+Net worth: 9346.628456131744 (Max net worth: 10000)
+Profit: -653.3715438682557
+
+Step: 10
+Balance: 607.2936614424498
+Shares held: 13 (Total sold: 0)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 0.0)
+Net worth: 9049.267550268662 (Max net worth: 10000)
+Profit: -950.7324497313384
+
+Step: 11
+Balance: 607.2936614424498
+Shares held: 13 (Total sold: 0)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 0.0)
+Net worth: 8468.476364226346 (Max net worth: 10000)
+Profit: -1531.523635773654
+
+Step: 12
+Balance: 607.2936614424498
+Shares held: 13 (Total sold: 0)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 0.0)
+Net worth: 7945.396739384631 (Max net worth: 10000)
+Profit: -2054.6032606153694
+
+Step: 13
+Balance: 607.2936614424498
+Shares held: 13 (Total sold: 0)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 0.0)
+Net worth: 9120.988328703701 (Max net worth: 10000)
+Profit: -879.011671296299
+
+Step: 14
+Balance: 607.2936614424498
+Shares held: 13 (Total sold: 0)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 0.0)
+Net worth: 9415.467123488263 (Max net worth: 10000)
+Profit: -584.5328765117374
+
+Step: 15
+Balance: 607.2936614424498
+Shares held: 13 (Total sold: 0)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 0.0)
+Net worth: 9701.288594504284 (Max net worth: 10000)
+Profit: -298.71140549571646
+
+Step: 16
+Balance: 607.2936614424498
+Shares held: 13 (Total sold: 0)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 0.0)
+Net worth: 9448.454114601267 (Max net worth: 10000)
+Profit: -551.5458853987329
+
+Step: 17
+Balance: 2691.728938895325
+Shares held: 10 (Total sold: 3)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 2084.435277452875)
+Net worth: 9639.846530404908 (Max net worth: 10000)
+Profit: -360.15346959509225
+
+Step: 18
+Balance: 2691.728938895325
+Shares held: 10 (Total sold: 3)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 2084.435277452875)
+Net worth: 9684.328910011678 (Max net worth: 10000)
+Profit: -315.6710899883219
+
+Step: 19
+Balance: 2691.728938895325
+Shares held: 10 (Total sold: 3)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 2084.435277452875)
+Net worth: 9588.994041163736 (Max net worth: 10000)
+Profit: -411.00595883626374
+
+Step: 20
+Balance: 2691.728938895325
+Shares held: 10 (Total sold: 3)
+Avg cost for held shares: 722.5158721967347 (Total sales value: 2084.435277452875)
+Net worth: 9470.97536732092 (Max net worth: 10000)
+Profit: -529.0246326790802
+
+Step: 21
+Balance: 2038.275604698208
+Shares held: 11 (Total sold: 3)
+Avg cost for held shares: 716.2374596513148 (Total sales value: 2084.435277452875)
+Net worth: 9226.262280866493 (Max net worth: 10000)
+Profit: -773.7377191335072
+
+Step: 22
+Balance: 2038.275604698208
+Shares held: 11 (Total sold: 3)
+Avg cost for held shares: 716.2374596513148 (Total sales value: 2084.435277452875)
+Net worth: 9416.161906710913 (Max net worth: 10000)
+Profit: -583.8380932890868
+
+Step: 23
+Balance: 2038.275604698208
+Shares held: 11 (Total sold: 3)
+Avg cost for held shares: 716.2374596513148 (Total sales value: 2084.435277452875)
+Net worth: 9370.330820417785 (Max net worth: 10000)
+Profit: -629.6691795822153
+
+Step: 24
+Balance: 2038.275604698208
+Shares held: 11 (Total sold: 3)
+Avg cost for held shares: 716.2374596513148 (Total sales value: 2084.435277452875)
+Net worth: 9195.935998461793 (Max net worth: 10000)
+Profit: -804.0640015382069
+
+Step: 25
+Balance: 118.88281394573642
+Shares held: 14 (Total sold: 3)
+Avg cost for held shares: 699.8574890654953 (Total sales value: 2084.435277452875)
+Net worth: 9076.049170790604 (Max net worth: 10000)
+Profit: -923.950829209396
+
+Step: 26
+Balance: 3877.173271017133
+Shares held: 8 (Total sold: 9)
+Avg cost for held shares: 699.8574890654953 (Total sales value: 5842.725734524272)
+Net worth: 8888.227213778995 (Max net worth: 10000)
+Profit: -1111.772786221005
+
+Step: 27
+Balance: 189.60186452664357
+Shares held: 14 (Total sold: 9)
+Avg cost for held shares: 663.3165227867466 (Total sales value: 5842.725734524272)
+Net worth: 8793.935146337784 (Max net worth: 10000)
+Profit: -1206.0648536622157
+
+Step: 28
+Balance: 3901.6962115033944
+Shares held: 8 (Total sold: 15)
+Avg cost for held shares: 663.3165227867466 (Total sales value: 9554.820081501024)
+Net worth: 8851.155340805728 (Max net worth: 10000)
+Profit: -1148.844659194272
+
+Step: 29
+Balance: 3901.6962115033944
+Shares held: 8 (Total sold: 15)
+Avg cost for held shares: 663.3165227867466 (Total sales value: 9554.820081501024)
+Net worth: 9181.081815734919 (Max net worth: 10000)
+Profit: -818.9181842650814
+
+Step: 30
+Balance: 3901.6962115033944
+Shares held: 8 (Total sold: 15)
+Avg cost for held shares: 663.3165227867466 (Total sales value: 9554.820081501024)
+Net worth: 9367.416951136745 (Max net worth: 10000)
+Profit: -632.5830488632546
+
+Step: 31
+Balance: 4606.280558395336
+Shares held: 7 (Total sold: 16)
+Avg cost for held shares: 663.3165227867466 (Total sales value: 10259.404428392965)
+Net worth: 9538.370986638929 (Max net worth: 10000)
+Profit: -461.629013361071
+
+Step: 32
+Balance: 1151.8928621710247
+Shares held: 12 (Total sold: 16)
+Avg cost for held shares: 674.8002796442948 (Total sales value: 10259.404428392965)
+Net worth: 9442.423333109371 (Max net worth: 10000)
+Profit: -557.576666890629
+
+Step: 33
+Balance: 3197.703772683686
+Shares held: 9 (Total sold: 19)
+Avg cost for held shares: 674.8002796442948 (Total sales value: 12305.215338905628)
+Net worth: 9335.136504221671 (Max net worth: 10000)
+Profit: -664.8634957783288
+
+Step: 34
+Balance: 1150.3376843209953
+Shares held: 12 (Total sold: 19)
+Avg cost for held shares: 676.714050430112 (Total sales value: 12305.215338905628)
+Net worth: 9339.802037771758 (Max net worth: 10000)
+Profit: -660.1979622282415
+
+Step: 35
+Balance: 1150.3376843209953
+Shares held: 12 (Total sold: 19)
+Avg cost for held shares: 676.714050430112 (Total sales value: 12305.215338905628)
+Net worth: 9278.57342238809 (Max net worth: 10000)
+Profit: -721.42657761191
+
+Step: 36
+Balance: 1150.3376843209953
+Shares held: 12 (Total sold: 19)
+Avg cost for held shares: 676.714050430112 (Total sales value: 12305.215338905628)
+Net worth: 9476.735118709563 (Max net worth: 10000)
+Profit: -523.2648812904372
+
+Step: 37
+Balance: 1150.3376843209953
+Shares held: 12 (Total sold: 19)
+Avg cost for held shares: 676.714050430112 (Total sales value: 12305.215338905628)
+Net worth: 9899.23365782954 (Max net worth: 10000)
+Profit: -100.76634217046012
+
+Step: 38
+Balance: 1150.3376843209953
+Shares held: 12 (Total sold: 19)
+Avg cost for held shares: 676.714050430112 (Total sales value: 12305.215338905628)
+Net worth: 10271.126528534069 (Max net worth: 10271.126528534069)
+Profit: 271.1265285340687
+
+Step: 39
+Balance: 1150.3376843209953
+Shares held: 12 (Total sold: 19)
+Avg cost for held shares: 676.714050430112 (Total sales value: 12305.215338905628)
+Net worth: 10041.629962922994 (Max net worth: 10271.126528534069)
+Profit: 41.62996292299431
+
+Step: 40
+Balance: 1150.3376843209953
+Shares held: 12 (Total sold: 19)
+Avg cost for held shares: 676.714050430112 (Total sales value: 12305.215338905628)
+Net worth: 9895.493146231966 (Max net worth: 10271.126528534069)
+Profit: -104.50685376803449
+
+Step: 41
+Balance: 1150.3376843209953
+Shares held: 12 (Total sold: 19)
+Avg cost for held shares: 676.714050430112 (Total sales value: 12305.215338905628)
+Net worth: 9777.123177579022 (Max net worth: 10271.126528534069)
+Profit: -222.876822420978
+
+Step: 42
+Balance: 1150.3376843209953
+Shares held: 12 (Total sold: 19)
+Avg cost for held shares: 676.714050430112 (Total sales value: 12305.215338905628)
+Net worth: 9771.865596725427 (Max net worth: 10271.126528534069)
+Profit: -228.13440327457283
+
+Step: 43
+Balance: 9824.49071134385
+Shares held: 0 (Total sold: 31)
+Avg cost for held shares: 0 (Total sales value: 20979.36836592848)
+Net worth: 9824.49071134385 (Max net worth: 10271.126528534069)
+Profit: -175.5092886561506
+
+Step: 44
+Balance: 6189.752566241648
+Shares held: 5 (Total sold: 31)
+Avg cost for held shares: 726.9476290204402 (Total sales value: 20979.36836592848)
+Net worth: 9824.49071134385 (Max net worth: 10271.126528534069)
+Profit: -175.5092886561506
+
+Step: 45
+Balance: 8368.325006663448
+Shares held: 2 (Total sold: 34)
+Avg cost for held shares: 726.9476290204402 (Total sales value: 23157.940806350278)
+Net worth: 9820.706633611315 (Max net worth: 10271.126528534069)
+Profit: -179.29336638868517
+
+Step: 46
+Balance: 8368.325006663448
+Shares held: 2 (Total sold: 34)
+Avg cost for held shares: 726.9476290204402 (Total sales value: 23157.940806350278)
+Net worth: 9845.038637355165 (Max net worth: 10271.126528534069)
+Profit: -154.9613626448354
+
+Step: 47
+Balance: 8368.325006663448
+Shares held: 2 (Total sold: 34)
+Avg cost for held shares: 726.9476290204402 (Total sales value: 23157.940806350278)
+Net worth: 9803.528765838422 (Max net worth: 10271.126528534069)
+Profit: -196.47123416157774
+
+Step: 48
+Balance: 8368.325006663448
+Shares held: 2 (Total sold: 34)
+Avg cost for held shares: 726.9476290204402 (Total sales value: 23157.940806350278)
+Net worth: 9760.712883184855 (Max net worth: 10271.126528534069)
+Profit: -239.28711681514505
+
+Step: 49
+Balance: 8368.325006663448
+Shares held: 2 (Total sold: 34)
+Avg cost for held shares: 726.9476290204402 (Total sales value: 23157.940806350278)
+Net worth: 9754.994818105399 (Max net worth: 10271.126528534069)
+Profit: -245.00518189460126
+
+Step: 50
+Balance: 8368.325006663448
+Shares held: 2 (Total sold: 34)
+Avg cost for held shares: 726.9476290204402 (Total sales value: 23157.940806350278)
+Net worth: 9774.969738098975 (Max net worth: 10271.126528534069)
+Profit: -225.03026190102537
+
+Step: 51
+Balance: 8368.325006663448
+Shares held: 2 (Total sold: 34)
+Avg cost for held shares: 726.9476290204402 (Total sales value: 23157.940806350278)
+Net worth: 9775.537134866527 (Max net worth: 10271.126528534069)
+Profit: -224.46286513347331
+
+Step: 52
+Balance: 7012.457844649885
+Shares held: 4 (Total sold: 34)
+Avg cost for held shares: 702.4406050136108 (Total sales value: 23157.940806350278)
+Net worth: 9724.192168677011 (Max net worth: 10271.126528534069)
+Profit: -275.80783132298893
+
+Step: 53
+Balance: 9713.59371953079
+Shares held: 0 (Total sold: 38)
+Avg cost for held shares: 0 (Total sales value: 25859.07668123118)
+Net worth: 9713.59371953079 (Max net worth: 10271.126528534069)
+Profit: -286.4062804692094
+
+Step: 54
+Balance: 9713.59371953079
+Shares held: 0 (Total sold: 38)
+Avg cost for held shares: 0 (Total sales value: 25859.07668123118)
+Net worth: 9713.59371953079 (Max net worth: 10271.126528534069)
+Profit: -286.4062804692094
+
+Step: 55
+Balance: 2329.0647897286126
+Shares held: 11 (Total sold: 38)
+Avg cost for held shares: 671.320811800198 (Total sales value: 25859.07668123118)
+Net worth: 9713.59371953079 (Max net worth: 10271.126528534069)
+Profit: -286.4062804692094
+
+Step: 56
+Balance: 391.45729503068605
+Shares held: 14 (Total sold: 38)
+Avg cost for held shares: 665.8668874642932 (Total sales value: 25859.07668123118)
+Net worth: 9433.62560362101 (Max net worth: 10271.126528534069)
+Profit: -566.3743963789893
+
+Step: 57
+Balance: 391.45729503068605
+Shares held: 14 (Total sold: 38)
+Avg cost for held shares: 665.8668874642932 (Total sales value: 25859.07668123118)
+Net worth: 8825.448762472108 (Max net worth: 10271.126528534069)
+Profit: -1174.5512375278922
+
+Step: 58
+Balance: 391.45729503068605
+Shares held: 14 (Total sold: 38)
+Avg cost for held shares: 665.8668874642932 (Total sales value: 25859.07668123118)
+Net worth: 8805.414901177459 (Max net worth: 10271.126528534069)
+Profit: -1194.585098822541
+
+Step: 59
+Balance: 391.45729503068605
+Shares held: 14 (Total sold: 38)
+Avg cost for held shares: 665.8668874642932 (Total sales value: 25859.07668123118)
+Net worth: 8630.73421666744 (Max net worth: 10271.126528534069)
+Profit: -1369.2657833325593
+
+Step: 60
+Balance: 391.45729503068605
+Shares held: 14 (Total sold: 38)
+Avg cost for held shares: 665.8668874642932 (Total sales value: 25859.07668123118)
+Net worth: 8609.276099915418 (Max net worth: 10271.126528534069)
+Profit: -1390.723900084582
+
+Step: 61
+Balance: 391.45729503068605
+Shares held: 14 (Total sold: 38)
+Avg cost for held shares: 665.8668874642932 (Total sales value: 25859.07668123118)
+Net worth: 8464.963945637368 (Max net worth: 10271.126528534069)
+Profit: -1535.036054362632
+
+Step: 62
+Balance: 391.45729503068605
+Shares held: 14 (Total sold: 38)
+Avg cost for held shares: 665.8668874642932 (Total sales value: 25859.07668123118)
+Net worth: 8408.746693410976 (Max net worth: 10271.126528534069)
+Profit: -1591.2533065890239
+
+Step: 63
+Balance: 391.45729503068605
+Shares held: 14 (Total sold: 38)
+Avg cost for held shares: 665.8668874642932 (Total sales value: 25859.07668123118)
+Net worth: 8138.385065220498 (Max net worth: 10271.126528534069)
+Profit: -1861.6149347795017
+
+Step: 64
+Balance: 391.45729503068605
+Shares held: 14 (Total sold: 38)
+Avg cost for held shares: 665.8668874642932 (Total sales value: 25859.07668123118)
+Net worth: 8531.142003367522 (Max net worth: 10271.126528534069)
+Profit: -1468.8579966324778
+
+Step: 65
+Balance: 391.45729503068605
+Shares held: 14 (Total sold: 38)
+Avg cost for held shares: 665.8668874642932 (Total sales value: 25859.07668123118)
+Net worth: 8679.661366791222 (Max net worth: 10271.126528534069)
+Profit: -1320.3386332087775
+
+Step: 66
+Balance: 391.45729503068605
+Shares held: 14 (Total sold: 38)
+Avg cost for held shares: 665.8668874642932 (Total sales value: 25859.07668123118)
+Net worth: 8617.583285906741 (Max net worth: 10271.126528534069)
+Profit: -1382.4167140932586
+
+Step: 67
+Balance: 391.45729503068605
+Shares held: 14 (Total sold: 38)
+Avg cost for held shares: 665.8668874642932 (Total sales value: 25859.07668123118)
+Net worth: 8872.00156649595 (Max net worth: 10271.126528534069)
+Profit: -1127.99843350405
+
+Step: 68
+Balance: 391.45729503068605
+Shares held: 14 (Total sold: 38)
+Avg cost for held shares: 665.8668874642932 (Total sales value: 25859.07668123118)
+Net worth: 9006.874359794647 (Max net worth: 10271.126528534069)
+Profit: -993.1256402053532
+
+Step: 69
+Balance: 9101.369241807362
+Shares held: 0 (Total sold: 52)
+Avg cost for held shares: 0 (Total sales value: 34568.98862800786)
+Net worth: 9101.369241807362 (Max net worth: 10271.126528534069)
+Profit: -898.6307581926376
+
+Step: 70
+Balance: 8473.279479052437
+Shares held: 1 (Total sold: 52)
+Avg cost for held shares: 628.089762754925 (Total sales value: 34568.98862800786)
+Net worth: 9101.369241807362 (Max net worth: 10271.126528534069)
+Profit: -898.6307581926376
+
+Step: 71
+Balance: 5968.440502108104
+Shares held: 5 (Total sold: 52)
+Avg cost for held shares: 626.5857479398516 (Total sales value: 34568.98862800786)
+Net worth: 9099.48922328852 (Max net worth: 10271.126528534069)
+Profit: -900.5107767114805
+
+Step: 72
+Balance: 429.4126449197074
+Shares held: 14 (Total sold: 52)
+Avg cost for held shares: 619.425471206261 (Total sales value: 34568.98862800786)
+Net worth: 9045.678200546103 (Max net worth: 10271.126528534069)
+Profit: -954.3217994538973
+
+Step: 73
+Balance: 429.4126449197074
+Shares held: 14 (Total sold: 52)
+Avg cost for held shares: 619.425471206261 (Total sales value: 34568.98862800786)
+Net worth: 8775.286907277092 (Max net worth: 10271.126528534069)
+Profit: -1224.7130927229082
+
+Step: 74
+Balance: 8704.690211319303
+Shares held: 0 (Total sold: 66)
+Avg cost for held shares: 0 (Total sales value: 42844.26619440745)
+Net worth: 8704.690211319303 (Max net worth: 10271.126528534069)
+Profit: -1295.3097886806972
+
+Step: 75
+Balance: 8704.690211319303
+Shares held: 0 (Total sold: 66)
+Avg cost for held shares: 0 (Total sales value: 42844.26619440745)
+Net worth: 8704.690211319303 (Max net worth: 10271.126528534069)
+Profit: -1295.3097886806972
+
+Step: 76
+Balance: 8704.690211319303
+Shares held: 0 (Total sold: 66)
+Avg cost for held shares: 0 (Total sales value: 42844.26619440745)
+Net worth: 8704.690211319303 (Max net worth: 10271.126528534069)
+Profit: -1295.3097886806972
+
+Step: 77
+Balance: 5107.848252690768
+Shares held: 6 (Total sold: 66)
+Avg cost for held shares: 599.4736597714225 (Total sales value: 42844.26619440745)
+Net worth: 8704.690211319303 (Max net worth: 10271.126528534069)
+Profit: -1295.3097886806972
+
+Step: 78
+Balance: 267.8417923216566
+Shares held: 14 (Total sold: 66)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 42844.26619440745)
+Net worth: 8737.853097967602 (Max net worth: 10271.126528534069)
+Profit: -1262.1469020323984
+
+Step: 79
+Balance: 267.8417923216566
+Shares held: 14 (Total sold: 66)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 42844.26619440745)
+Net worth: 8808.350247880619 (Max net worth: 10271.126528534069)
+Profit: -1191.6497521193814
+
+Step: 80
+Balance: 267.8417923216566
+Shares held: 14 (Total sold: 66)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 42844.26619440745)
+Net worth: 8887.384287338797 (Max net worth: 10271.126528534069)
+Profit: -1112.6157126612034
+
+Step: 81
+Balance: 267.8417923216566
+Shares held: 14 (Total sold: 66)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 42844.26619440745)
+Net worth: 8864.63468840685 (Max net worth: 10271.126528534069)
+Profit: -1135.3653115931502
+
+Step: 82
+Balance: 267.8417923216566
+Shares held: 14 (Total sold: 66)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 42844.26619440745)
+Net worth: 8663.972445820067 (Max net worth: 10271.126528534069)
+Profit: -1336.0275541799328
+
+Step: 83
+Balance: 267.8417923216566
+Shares held: 14 (Total sold: 66)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 42844.26619440745)
+Net worth: 8724.68143535344 (Max net worth: 10271.126528534069)
+Profit: -1275.3185646465608
+
+Step: 84
+Balance: 267.8417923216566
+Shares held: 14 (Total sold: 66)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 42844.26619440745)
+Net worth: 8887.53394235041 (Max net worth: 10271.126528534069)
+Profit: -1112.4660576495899
+
+Step: 85
+Balance: 267.8417923216566
+Shares held: 14 (Total sold: 66)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 42844.26619440745)
+Net worth: 9008.886089687217 (Max net worth: 10271.126528534069)
+Profit: -991.1139103127825
+
+Step: 86
+Balance: 267.8417923216566
+Shares held: 14 (Total sold: 66)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 42844.26619440745)
+Net worth: 8961.233391964131 (Max net worth: 10271.126528534069)
+Profit: -1038.7666080358686
+
+Step: 87
+Balance: 267.8417923216566
+Shares held: 14 (Total sold: 66)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 42844.26619440745)
+Net worth: 9207.674626113478 (Max net worth: 10271.126528534069)
+Profit: -792.3253738865224
+
+Step: 88
+Balance: 267.8417923216566
+Shares held: 14 (Total sold: 66)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 42844.26619440745)
+Net worth: 9726.352262964436 (Max net worth: 10271.126528534069)
+Profit: -273.6477370355642
+
+Step: 89
+Balance: 267.8417923216566
+Shares held: 14 (Total sold: 66)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 42844.26619440745)
+Net worth: 9907.54939912158 (Max net worth: 10271.126528534069)
+Profit: -92.45060087841921
+
+Step: 90
+Balance: 267.8417923216566
+Shares held: 14 (Total sold: 66)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 42844.26619440745)
+Net worth: 9742.394975322666 (Max net worth: 10271.126528534069)
+Profit: -257.60502467733386
+
+Step: 91
+Balance: 267.8417923216566
+Shares held: 14 (Total sold: 66)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 42844.26619440745)
+Net worth: 9799.519759959416 (Max net worth: 10271.126528534069)
+Profit: -200.48024004058425
+
+Step: 92
+Balance: 2307.0906300370025
+Shares held: 11 (Total sold: 69)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 44883.5150321228)
+Net worth: 9784.336368326603 (Max net worth: 10271.126528534069)
+Profit: -215.6636316733966
+
+Step: 93
+Balance: 2307.0906300370025
+Shares held: 11 (Total sold: 69)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 44883.5150321228)
+Net worth: 9820.751040401818 (Max net worth: 10271.126528534069)
+Profit: -179.2489595981824
+
+Step: 94
+Balance: 2307.0906300370025
+Shares held: 11 (Total sold: 69)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 44883.5150321228)
+Net worth: 9775.434651214618 (Max net worth: 10271.126528534069)
+Profit: -224.5653487853815
+
+Step: 95
+Balance: 2307.0906300370025
+Shares held: 11 (Total sold: 69)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 44883.5150321228)
+Net worth: 9683.317757857683 (Max net worth: 10271.126528534069)
+Profit: -316.6822421423167
+
+Step: 96
+Balance: 2307.0906300370025
+Shares held: 11 (Total sold: 69)
+Avg cost for held shares: 602.6320299284033 (Total sales value: 44883.5150321228)
+Net worth: 9598.926891696685 (Max net worth: 10271.126528534069)
+Profit: -401.07310830331517
+
+Step: 97
+Balance: 1663.8627368397576
+Shares held: 12 (Total sold: 69)
+Avg cost for held shares: 606.0150185341402 (Total sales value: 44883.5150321228)
+Net worth: 9382.597455206696 (Max net worth: 10271.126528534069)
+Profit: -617.4025447933036
+
+Step: 98
+Balance: 1663.8627368397576
+Shares held: 12 (Total sold: 69)
+Avg cost for held shares: 606.0150185341402 (Total sales value: 44883.5150321228)
+Net worth: 9503.42473260995 (Max net worth: 10271.126528534069)
+Profit: -496.5752673900497
+
+Step: 99
+Balance: 1663.8627368397576
+Shares held: 12 (Total sold: 69)
+Avg cost for held shares: 606.0150185341402 (Total sales value: 44883.5150321228)
+Net worth: 9760.3263957345 (Max net worth: 10271.126528534069)
+Profit: -239.6736042654993
+
+Step: 100
+Balance: 1663.8627368397576
+Shares held: 12 (Total sold: 69)
+Avg cost for held shares: 606.0150185341402 (Total sales value: 44883.5150321228)
+Net worth: 9837.249581842592 (Max net worth: 10271.126528534069)
+Profit: -162.7504181574077
+
+Step: 101
+Balance: 1663.8627368397576
+Shares held: 12 (Total sold: 69)
+Avg cost for held shares: 606.0150185341402 (Total sales value: 44883.5150321228)
+Net worth: 9524.184833669833 (Max net worth: 10271.126528534069)
+Profit: -475.8151663301669
+
+Step: 102
+Balance: 1663.8627368397576
+Shares held: 12 (Total sold: 69)
+Avg cost for held shares: 606.0150185341402 (Total sales value: 44883.5150321228)
+Net worth: 9536.124480775288 (Max net worth: 10271.126528534069)
+Profit: -463.87551922471175
+
+Step: 103
+Balance: 1663.8627368397576
+Shares held: 12 (Total sold: 69)
+Avg cost for held shares: 606.0150185341402 (Total sales value: 44883.5150321228)
+Net worth: 9438.726953828518 (Max net worth: 10271.126528534069)
+Profit: -561.2730461714818
+
+Step: 104
+Balance: 1663.8627368397576
+Shares held: 12 (Total sold: 69)
+Avg cost for held shares: 606.0150185341402 (Total sales value: 44883.5150321228)
+Net worth: 9339.845246684023 (Max net worth: 10271.126528534069)
+Profit: -660.1547533159774
+
+Step: 105
+Balance: 1663.8627368397576
+Shares held: 12 (Total sold: 69)
+Avg cost for held shares: 606.0150185341402 (Total sales value: 44883.5150321228)
+Net worth: 9549.037129506009 (Max net worth: 10271.126528534069)
+Profit: -450.96287049399143
+
+Step: 106
+Balance: 1663.8627368397576
+Shares held: 12 (Total sold: 69)
+Avg cost for held shares: 606.0150185341402 (Total sales value: 44883.5150321228)
+Net worth: 9544.255932371723 (Max net worth: 10271.126528534069)
+Profit: -455.74406762827675
+
+Step: 107
+Balance: 1663.8627368397576
+Shares held: 12 (Total sold: 69)
+Avg cost for held shares: 606.0150185341402 (Total sales value: 44883.5150321228)
+Net worth: 9458.908866745844 (Max net worth: 10271.126528534069)
+Profit: -541.0911332541564
+
+Step: 108
+Balance: 1663.8627368397576
+Shares held: 12 (Total sold: 69)
+Avg cost for held shares: 606.0150185341402 (Total sales value: 44883.5150321228)
+Net worth: 9417.185121317243 (Max net worth: 10271.126528534069)
+Profit: -582.8148786827569
+
+Step: 109
+Balance: 1663.8627368397576
+Shares held: 12 (Total sold: 69)
+Avg cost for held shares: 606.0150185341402 (Total sales value: 44883.5150321228)
+Net worth: 9518.255963198779 (Max net worth: 10271.126528534069)
+Profit: -481.7440368012212
+
+Step: 110
+Balance: 373.29789867164504
+Shares held: 14 (Total sold: 69)
+Avg cost for held shares: 611.6246471841281 (Total sales value: 44883.5150321228)
+Net worth: 9407.251765848432 (Max net worth: 10271.126528534069)
+Profit: -592.7482341515679
+
+Step: 111
+Balance: 373.29789867164504
+Shares held: 14 (Total sold: 69)
+Avg cost for held shares: 611.6246471841281 (Total sales value: 44883.5150321228)
+Net worth: 9431.159773672409 (Max net worth: 10271.126528534069)
+Profit: -568.8402263275912
+
+Step: 112
+Balance: 373.29789867164504
+Shares held: 14 (Total sold: 69)
+Avg cost for held shares: 611.6246471841281 (Total sales value: 44883.5150321228)
+Net worth: 9632.36853930476 (Max net worth: 10271.126528534069)
+Profit: -367.6314606952401
+
+Step: 113
+Balance: 373.29789867164504
+Shares held: 14 (Total sold: 69)
+Avg cost for held shares: 611.6246471841281 (Total sales value: 44883.5150321228)
+Net worth: 9873.73641496449 (Max net worth: 10271.126528534069)
+Profit: -126.2635850355091
+
+Step: 114
+Balance: 373.29789867164504
+Shares held: 14 (Total sold: 69)
+Avg cost for held shares: 611.6246471841281 (Total sales value: 44883.5150321228)
+Net worth: 10217.83249892197 (Max net worth: 10271.126528534069)
+Profit: 217.8324989219691
+
+Step: 115
+Balance: 373.29789867164504
+Shares held: 14 (Total sold: 69)
+Avg cost for held shares: 611.6246471841281 (Total sales value: 44883.5150321228)
+Net worth: 10372.553285214797 (Max net worth: 10372.553285214797)
+Profit: 372.55328521479714
+
+Step: 116
+Balance: 373.29789867164504
+Shares held: 14 (Total sold: 69)
+Avg cost for held shares: 611.6246471841281 (Total sales value: 44883.5150321228)
+Net worth: 10326.521429355947 (Max net worth: 10372.553285214797)
+Profit: 326.5214293559475
+
+Step: 117
+Balance: 373.29789867164504
+Shares held: 14 (Total sold: 69)
+Avg cost for held shares: 611.6246471841281 (Total sales value: 44883.5150321228)
+Net worth: 10378.426254164198 (Max net worth: 10378.426254164198)
+Profit: 378.4262541641983
+
+Step: 118
+Balance: 373.29789867164504
+Shares held: 14 (Total sold: 69)
+Avg cost for held shares: 611.6246471841281 (Total sales value: 44883.5150321228)
+Net worth: 10196.117046712821 (Max net worth: 10378.426254164198)
+Profit: 196.11704671282132
+
+Step: 119
+Balance: 373.29789867164504
+Shares held: 14 (Total sold: 69)
+Avg cost for held shares: 611.6246471841281 (Total sales value: 44883.5150321228)
+Net worth: 10321.76103815989 (Max net worth: 10378.426254164198)
+Profit: 321.7610381598897
+
+Step: 120
+Balance: 373.29789867164504
+Shares held: 14 (Total sold: 69)
+Avg cost for held shares: 611.6246471841281 (Total sales value: 44883.5150321228)
+Net worth: 10329.337770691454 (Max net worth: 10378.426254164198)
+Profit: 329.33777069145435
+
+Step: 121
+Balance: 373.29789867164504
+Shares held: 14 (Total sold: 69)
+Avg cost for held shares: 611.6246471841281 (Total sales value: 44883.5150321228)
+Net worth: 10307.448076462482 (Max net worth: 10378.426254164198)
+Profit: 307.4480764624823
+
+Step: 122
+Balance: 373.29789867164504
+Shares held: 14 (Total sold: 69)
+Avg cost for held shares: 611.6246471841281 (Total sales value: 44883.5150321228)
+Net worth: 10419.63173282697 (Max net worth: 10419.63173282697)
+Profit: 419.6317328269706
+
+Step: 123
+Balance: 373.29789867164504
+Shares held: 14 (Total sold: 69)
+Avg cost for held shares: 611.6246471841281 (Total sales value: 44883.5150321228)
+Net worth: 10444.476585945722 (Max net worth: 10444.476585945722)
+Profit: 444.47658594572204
+
+Step: 124
+Balance: 10170.545481260928
+Shares held: 0 (Total sold: 83)
+Avg cost for held shares: 0 (Total sales value: 54680.76261471208)
+Net worth: 10170.545481260928 (Max net worth: 10444.476585945722)
+Profit: 170.54548126092777
+
+Step: 125
+Balance: 10170.545481260928
+Shares held: 0 (Total sold: 83)
+Avg cost for held shares: 0 (Total sales value: 54680.76261471208)
+Net worth: 10170.545481260928 (Max net worth: 10444.476585945722)
+Profit: 170.54548126092777
+
+Step: 126
+Balance: 10170.545481260928
+Shares held: 0 (Total sold: 83)
+Avg cost for held shares: 0 (Total sales value: 54680.76261471208)
+Net worth: 10170.545481260928 (Max net worth: 10444.476585945722)
+Profit: 170.54548126092777
+
+Step: 127
+Balance: 10170.545481260928
+Shares held: 0 (Total sold: 83)
+Avg cost for held shares: 0 (Total sales value: 54680.76261471208)
+Net worth: 10170.545481260928 (Max net worth: 10444.476585945722)
+Profit: 170.54548126092777
+
+Step: 128
+Balance: 6759.805266361348
+Shares held: 5 (Total sold: 83)
+Avg cost for held shares: 682.148042979916 (Total sales value: 54680.76261471208)
+Net worth: 10170.545481260928 (Max net worth: 10444.476585945722)
+Profit: 170.54548126092777
+
+Step: 129
+Balance: 6759.805266361348
+Shares held: 5 (Total sold: 83)
+Avg cost for held shares: 682.148042979916 (Total sales value: 54680.76261471208)
+Net worth: 10223.962648845003 (Max net worth: 10444.476585945722)
+Profit: 223.96264884500306
+
+Step: 130
+Balance: 6759.805266361348
+Shares held: 5 (Total sold: 83)
+Avg cost for held shares: 682.148042979916 (Total sales value: 54680.76261471208)
+Net worth: 10303.110312680245 (Max net worth: 10444.476585945722)
+Profit: 303.11031268024453
+
+Step: 131
+Balance: 379.36268453567845
+Shares held: 14 (Total sold: 83)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 54680.76261471208)
+Net worth: 10304.495589597831 (Max net worth: 10444.476585945722)
+Profit: 304.495589597831
+
+Step: 132
+Balance: 379.36268453567845
+Shares held: 14 (Total sold: 83)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 54680.76261471208)
+Net worth: 10247.509825809 (Max net worth: 10444.476585945722)
+Profit: 247.50982580900018
+
+Step: 133
+Balance: 379.36268453567845
+Shares held: 14 (Total sold: 83)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 54680.76261471208)
+Net worth: 10264.67245224227 (Max net worth: 10444.476585945722)
+Profit: 264.6724522422701
+
+Step: 134
+Balance: 379.36268453567845
+Shares held: 14 (Total sold: 83)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 54680.76261471208)
+Net worth: 10500.203985726093 (Max net worth: 10500.203985726093)
+Profit: 500.2039857260934
+
+Step: 135
+Balance: 379.36268453567845
+Shares held: 14 (Total sold: 83)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 54680.76261471208)
+Net worth: 10675.632814541801 (Max net worth: 10675.632814541801)
+Profit: 675.632814541801
+
+Step: 136
+Balance: 379.36268453567845
+Shares held: 14 (Total sold: 83)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 54680.76261471208)
+Net worth: 10656.499311124076 (Max net worth: 10675.632814541801)
+Profit: 656.4993111240765
+
+Step: 137
+Balance: 379.36268453567845
+Shares held: 14 (Total sold: 83)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 54680.76261471208)
+Net worth: 10655.917523098833 (Max net worth: 10675.632814541801)
+Profit: 655.917523098833
+
+Step: 138
+Balance: 379.36268453567845
+Shares held: 14 (Total sold: 83)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 54680.76261471208)
+Net worth: 10637.45814446012 (Max net worth: 10675.632814541801)
+Profit: 637.4581444601208
+
+Step: 139
+Balance: 1123.4359976451299
+Shares held: 13 (Total sold: 84)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 55424.835927821536)
+Net worth: 10796.389068068 (Max net worth: 10796.389068068)
+Profit: 796.3890680679997
+
+Step: 140
+Balance: 1123.4359976451299
+Shares held: 13 (Total sold: 84)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 55424.835927821536)
+Net worth: 10979.799891455934 (Max net worth: 10979.799891455934)
+Profit: 979.7998914559339
+
+Step: 141
+Balance: 1123.4359976451299
+Shares held: 13 (Total sold: 84)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 55424.835927821536)
+Net worth: 10920.25154876007 (Max net worth: 10979.799891455934)
+Profit: 920.2515487600704
+
+Step: 142
+Balance: 1123.4359976451299
+Shares held: 13 (Total sold: 84)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 55424.835927821536)
+Net worth: 10885.626310438287 (Max net worth: 10979.799891455934)
+Profit: 885.626310438287
+
+Step: 143
+Balance: 1123.4359976451299
+Shares held: 13 (Total sold: 84)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 55424.835927821536)
+Net worth: 10782.186338942365 (Max net worth: 10979.799891455934)
+Profit: 782.1863389423652
+
+Step: 144
+Balance: 1123.4359976451299
+Shares held: 13 (Total sold: 84)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 55424.835927821536)
+Net worth: 10793.703725271858 (Max net worth: 10979.799891455934)
+Profit: 793.7037252718583
+
+Step: 145
+Balance: 1123.4359976451299
+Shares held: 13 (Total sold: 84)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 55424.835927821536)
+Net worth: 10873.904994722176 (Max net worth: 10979.799891455934)
+Profit: 873.9049947221756
+
+Step: 146
+Balance: 1123.4359976451299
+Shares held: 13 (Total sold: 84)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 55424.835927821536)
+Net worth: 10937.677268786261 (Max net worth: 10979.799891455934)
+Profit: 937.6772687862613
+
+Step: 147
+Balance: 1123.4359976451299
+Shares held: 13 (Total sold: 84)
+Avg cost for held shares: 699.3701997660893 (Total sales value: 55424.835927821536)
+Net worth: 10967.045073933057 (Max net worth: 10979.799891455934)
+Profit: 967.0450739330572
+
+Step: 148
+Balance: 390.37644054394525
+Shares held: 14 (Total sold: 84)
+Avg cost for held shares: 701.7765824328818 (Total sales value: 55424.835927821536)
+Net worth: 10653.21023996053 (Max net worth: 10979.799891455934)
+Profit: 653.2102399605301
+
+Step: 149
+Balance: 390.37644054394525
+Shares held: 14 (Total sold: 84)
+Avg cost for held shares: 701.7765824328818 (Total sales value: 55424.835927821536)
+Net worth: 10694.308799284026 (Max net worth: 10979.799891455934)
+Profit: 694.3087992840265
+
+Step: 150
+Balance: 390.37644054394525
+Shares held: 14 (Total sold: 84)
+Avg cost for held shares: 701.7765824328818 (Total sales value: 55424.835927821536)
+Net worth: 10838.963909117563 (Max net worth: 10979.799891455934)
+Profit: 838.9639091175632
+
+Step: 151
+Balance: 390.37644054394525
+Shares held: 14 (Total sold: 84)
+Avg cost for held shares: 701.7765824328818 (Total sales value: 55424.835927821536)
+Net worth: 10941.580446551374 (Max net worth: 10979.799891455934)
+Profit: 941.5804465513738
+
+Step: 152
+Balance: 390.37644054394525
+Shares held: 14 (Total sold: 84)
+Avg cost for held shares: 701.7765824328818 (Total sales value: 55424.835927821536)
+Net worth: 11118.48549104338 (Max net worth: 11118.48549104338)
+Profit: 1118.4854910433805
+
+Step: 153
+Balance: 390.37644054394525
+Shares held: 14 (Total sold: 84)
+Avg cost for held shares: 701.7765824328818 (Total sales value: 55424.835927821536)
+Net worth: 11221.181650887123 (Max net worth: 11221.181650887123)
+Profit: 1221.1816508871234
+
+Step: 154
+Balance: 390.37644054394525
+Shares held: 14 (Total sold: 84)
+Avg cost for held shares: 701.7765824328818 (Total sales value: 55424.835927821536)
+Net worth: 11303.633545541381 (Max net worth: 11303.633545541381)
+Profit: 1303.633545541381
+
+Step: 155
+Balance: 390.37644054394525
+Shares held: 14 (Total sold: 84)
+Avg cost for held shares: 701.7765824328818 (Total sales value: 55424.835927821536)
+Net worth: 11327.696586652886 (Max net worth: 11327.696586652886)
+Profit: 1327.6965866528863
+
+Step: 156
+Balance: 390.37644054394525
+Shares held: 14 (Total sold: 84)
+Avg cost for held shares: 701.7765824328818 (Total sales value: 55424.835927821536)
+Net worth: 11305.354738361017 (Max net worth: 11327.696586652886)
+Profit: 1305.3547383610166
+
+Step: 157
+Balance: 390.37644054394525
+Shares held: 14 (Total sold: 84)
+Avg cost for held shares: 701.7765824328818 (Total sales value: 55424.835927821536)
+Net worth: 11253.860940971284 (Max net worth: 11327.696586652886)
+Profit: 1253.8609409712844
+
+Step: 158
+Balance: 390.37644054394525
+Shares held: 14 (Total sold: 84)
+Avg cost for held shares: 701.7765824328818 (Total sales value: 55424.835927821536)
+Net worth: 11363.263805723785 (Max net worth: 11363.263805723785)
+Profit: 1363.2638057237855
+
+Step: 159
+Balance: 390.37644054394525
+Shares held: 14 (Total sold: 84)
+Avg cost for held shares: 701.7765824328818 (Total sales value: 55424.835927821536)
+Net worth: 11364.813863552552 (Max net worth: 11364.813863552552)
+Profit: 1364.813863552552
+
+Step: 160
+Balance: 390.37644054394525
+Shares held: 14 (Total sold: 84)
+Avg cost for held shares: 701.7765824328818 (Total sales value: 55424.835927821536)
+Net worth: 11268.001201806861 (Max net worth: 11364.813863552552)
+Profit: 1268.001201806861
+
+Step: 161
+Balance: 390.37644054394525
+Shares held: 14 (Total sold: 84)
+Avg cost for held shares: 701.7765824328818 (Total sales value: 55424.835927821536)
+Net worth: 11431.0040989817 (Max net worth: 11431.0040989817)
+Profit: 1431.0040989817007
+
