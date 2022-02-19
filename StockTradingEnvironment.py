@@ -36,7 +36,6 @@ class StockTradingEnvironment(gym.Env):
         self.observation_space = sps.Box(
             low=0, high=1, shape=(5, L_WINDOW_SIZE + 2), dtype=numpy.float16)
 
-        self.profit = self.net_worth - P_ACCOUNT_BALANCE
         self.balance = P_ACCOUNT_BALANCE
         self.net_worth = P_ACCOUNT_BALANCE
         self.max_net_worth = P_ACCOUNT_BALANCE
@@ -46,6 +45,7 @@ class StockTradingEnvironment(gym.Env):
         self.total_sales_value = 0
         self.c_transaction = 0  # Current Transaction
         self.trades = []
+        self.profit = self.net_worth - P_ACCOUNT_BALANCE
 
     def step(self, action):
 
