@@ -6,7 +6,7 @@ from StockTradingEnvironment import StockTradingEnvironment
 
 import pandas as pd
 
-df = pd.read_csv('./data/TSLA.csv')
+df = pd.read_csv('./data/NVDA.csv')
 df = df.sort_values('Date')
 
 # The algorithms require a vectorized environment to run
