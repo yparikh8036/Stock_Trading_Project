@@ -4,20 +4,20 @@ from stable_baselines3 import PPO
 
 from StockTradingEnvironment import StockTradingEnvironment
 
-import pandas as pd
+import pandas
 
-df = pd.read_csv('./data/NVDA.csv')
-df = df.sort_values('Date')
+data = pandas.read_csv('./data/NVDA.csv')
+data = data.sort_values('Date')
 
 # The algorithms require a vectorized environment to run
-env = DummyVecEnv([lambda: StockTradingEnvironment(df)])
+env = DummyVecEnv([lambda: StockTradingEnvironment(data)])
 
 model = PPO(MlpPolicy, env, verbose=1)
 model.learn(total_timesteps=50)
 
 obs = env.reset()
 
-for i in range(len(df['Date'])):
+for i in range(len(data['Date'])):
     action, _states = model.predict(obs)
     obs, rewards, done, info = env.step(action)
     env.render(mode='live')
