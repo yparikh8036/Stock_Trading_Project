@@ -1,6 +1,6 @@
 from stable_baselines3.ppo import MlpPolicy
 from stable_baselines3.common.vec_env import DummyVecEnv
-from stable_baselines3 import DDPG
+from stable_baselines3 import DQN
 
 from StockTradingEnvironment import StockTradingEnvironment
 
@@ -12,7 +12,7 @@ df = df.sort_values('Date')
 # The algorithms require a vectorized environment to run
 env = DummyVecEnv([lambda: StockTradingEnvironment(df)])
 
-model = DDPG(MlpPolicy, env, verbose=1)
+model = DQN(MlpPolicy, env, verbose=1)
 model.learn(total_timesteps=50)
 
 obs = env.reset()
